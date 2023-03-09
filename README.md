@@ -1,9 +1,13 @@
-# Welcome to Wellfound's microblog assessment!
+# Thank you for reviewing my stab at Wellfound's microblog assessment!
 
 ## Goal
-Your task is to update the home page of this Flask app to display all of the rows in the blog posts table instead of just the static single row.
+I updated the home page of this Flask app to display all of the rows in the blog posts table instead of just the static single row.
 
-Clone/fork this repository and make a commit with this change. After you've made your changes, please take a screenshot of the updated home page and include it in the README of your public repository. Finally, email the link to your public repository to clayton.bridge@wellfound.co, and please include your full name in the email!
+Hi, I greatly appreciate your time! Attaching a picture of the updated home page below:
+
+A screenshot of the updated home page:
+<img width="1436" alt="Screenshot 2023-03-09 at 12 56 21 PM" src="https://user-images.githubusercontent.com/47872417/224114782-e6b5daf6-59f0-43df-858f-429cab1699c7.png">
+
 
 <BR><BR>
 
